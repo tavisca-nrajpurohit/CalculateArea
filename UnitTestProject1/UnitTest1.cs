@@ -12,7 +12,7 @@ namespace UnitTestProject1
         {
             Circle circle = new Circle(5);
             double area = Math.Round(circle.GetArea(),1);
-            Assert.AreEqual(area,78.5);
+            Assert.AreEqual(78.5,area);
         }
 
         [TestMethod]
@@ -20,7 +20,7 @@ namespace UnitTestProject1
         {
             Square square = new Square(5);
             double area = Math.Round(square.GetArea(), 1);
-            Assert.AreEqual(area, 25);
+            Assert.AreEqual(25,area);
         }
 
         [TestMethod]
@@ -28,7 +28,7 @@ namespace UnitTestProject1
         {
             Rectangle rectangle = new Rectangle(5,6);
             double area = Math.Round(rectangle.GetArea(), 1);
-            Assert.AreEqual(area, 30);
+            Assert.AreEqual(30,area);
         }
 
 
@@ -37,7 +37,7 @@ namespace UnitTestProject1
         {
             Triangle triangle = new Triangle(5, 6);
             double area = Math.Round(triangle.GetArea(), 1);
-            Assert.AreEqual(area, 15);
+            Assert.AreEqual(15,area);
         }
 
         [TestMethod]
@@ -45,7 +45,7 @@ namespace UnitTestProject1
         {
             Triangle triangle = new Triangle(5, 6, 7);
             double area = Math.Round(triangle.GetArea(), 1);
-            Assert.AreEqual(area, 14.7);
+            Assert.AreEqual(14.7,area);
         }
     }
 }

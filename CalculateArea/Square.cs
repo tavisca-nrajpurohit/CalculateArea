@@ -8,14 +8,14 @@ namespace CalculateArea
 {
     public class Square : IShape
     {
-        int side;
+        int _side;
         public Square(int side)
         {
-            this.side = side;
+            this._side = side;
         }
         public double GetArea()
         {
-            return (side*side);
+            return (_side*_side);
         }
     }
 }

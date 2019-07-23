@@ -8,15 +8,15 @@ namespace CalculateArea
 {
     public class Rectangle : IShape
     {
-        int length, breadth;
+        int _length, _breadth;
         public Rectangle(int length, int breadth)
         {
-            this.length = length;
-            this.breadth = breadth;
+            this._length = length;
+            this._breadth = breadth;
         }
         public double GetArea()
         {
-            return (this.length * this.breadth);
+            return (this._length * this._breadth);
         }
     }
 }

@@ -8,17 +8,17 @@ namespace CalculateArea
 {
     public class Circle:IShape
     {
-        const double PI = 3.14;
-        int radius;
+        const double _PI = 3.14;
+        int _radius;
 
         public Circle(int radius)
         {
-            this.radius = radius;
+            this._radius = radius;
         }
 
         public double GetArea()
         {
-            return (PI * this.radius * this.radius);
+            return ( _PI * this._radius * this._radius);
         }
     }
 }
