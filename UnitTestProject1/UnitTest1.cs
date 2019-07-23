@@ -39,5 +39,13 @@ namespace UnitTestProject1
             double area = Math.Round(triangle.GetArea(), 1);
             Assert.AreEqual(area, 15);
         }
+
+        [TestMethod]
+        public void TestAreOfTriangle_2()
+        {
+            Triangle triangle = new Triangle(5, 6, 7);
+            double area = Math.Round(triangle.GetArea(), 1);
+            Assert.AreEqual(area, 14.7);
+        }
     }
 }
