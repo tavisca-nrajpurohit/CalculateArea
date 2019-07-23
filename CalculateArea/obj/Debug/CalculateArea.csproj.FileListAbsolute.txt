@@ -1,0 +1,15 @@
+C:\Users\nrajpurohit\source\repos\CalculateArea\CalculateArea\bin\Debug\CalculateArea.exe.config
+C:\Users\nrajpurohit\source\repos\CalculateArea\CalculateArea\bin\Debug\CalculateArea.exe
+C:\Users\nrajpurohit\source\repos\CalculateArea\CalculateArea\bin\Debug\CalculateArea.pdb
+C:\Users\nrajpurohit\source\repos\CalculateArea\CalculateArea\obj\Debug\CalculateArea.csprojResolveAssemblyReference.cache
+C:\Users\nrajpurohit\source\repos\CalculateArea\CalculateArea\obj\Debug\CalculateArea.csproj.CoreCompileInputs.cache
+C:\Users\nrajpurohit\source\repos\CalculateArea\CalculateArea\obj\Debug\CalculateArea.exe
+C:\Users\nrajpurohit\source\repos\CalculateArea\CalculateArea\obj\Debug\CalculateArea.pdb
+C:\Users\nrajpurohit\source\repos\CalculateArea\CalculateArea\bin\Debug\xunit.abstractions.dll
+C:\Users\nrajpurohit\source\repos\CalculateArea\CalculateArea\bin\Debug\xunit.assert.dll
+C:\Users\nrajpurohit\source\repos\CalculateArea\CalculateArea\bin\Debug\xunit.core.dll
+C:\Users\nrajpurohit\source\repos\CalculateArea\CalculateArea\bin\Debug\xunit.execution.desktop.dll
+C:\Users\nrajpurohit\source\repos\CalculateArea\CalculateArea\bin\Debug\xunit.abstractions.xml
+C:\Users\nrajpurohit\source\repos\CalculateArea\CalculateArea\bin\Debug\xunit.assert.xml
+C:\Users\nrajpurohit\source\repos\CalculateArea\CalculateArea\bin\Debug\xunit.core.xml
+C:\Users\nrajpurohit\source\repos\CalculateArea\CalculateArea\bin\Debug\xunit.execution.desktop.xml
